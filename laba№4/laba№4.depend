@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1679567806 source:c:\mylabs\laba-4\labar-4\laba¹4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1679568608 source:c:\mylabs\laba-4\labar-4\laba¹4\perfect.c
+	"expect.h"
+	<stdbool.h>
+
+1679568076 c:\mylabs\laba-4\labar-4\laba¹4\expect.h
+	<stdbool.h>
+
